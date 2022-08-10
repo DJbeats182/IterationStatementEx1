@@ -1,0 +1,15 @@
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\bin\Debug\net6.0\Iteration_StatementsEx1.exe
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\bin\Debug\net6.0\Iteration_StatementsEx1.deps.json
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\bin\Debug\net6.0\Iteration_StatementsEx1.runtimeconfig.json
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\bin\Debug\net6.0\Iteration_StatementsEx1.dll
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\bin\Debug\net6.0\Iteration_StatementsEx1.pdb
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.csproj.AssemblyReference.cache
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.AssemblyInfoInputs.cache
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.AssemblyInfo.cs
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.csproj.CoreCompileInputs.cache
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.dll
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\refint\Iteration_StatementsEx1.dll
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.pdb
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\Iteration_StatementsEx1.genruntimeconfig.cache
+C:\Users\bloov\Desktop\repos\Iteration_Statements\Iteration_StatementsEx1\Iteration_StatementsEx1\obj\Debug\net6.0\ref\Iteration_StatementsEx1.dll
